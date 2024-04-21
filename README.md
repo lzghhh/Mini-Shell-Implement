@@ -11,3 +11,5 @@ The [Makefile](Makefile) contains the following targets:
 - `make shell-tests` - run a few tests against the shell
 - `make test` - compile and run all the tests
 - `make clean` - perform a minimal clean-up of the source tree
+
+revised 2024
